@@ -6,12 +6,15 @@ This is a LMS for the HSI Sandbox, there will be user for administrator, student
 
 1. [Documentation](#documentation)
 2. [Installation](#installation)
+3. [Team](#team)
 
 ## Documentation
 
 Click link below to see the documentation
 
-1. [USE CASE](/docs/USE_CASE.md)
+<!-- 1. [USE CASE](/docs/USE_CASE.md) -->
+
+1. [USE CASE](https://drive.google.com/file/d/10l_BOmjo5rqUMowp0NO_n_da5NYnkXBp/view?usp=sharing)
 2. [ERD (Entity Relationship Diagram)](/docs/ERD.md)
 3. [SYSTEM ARCHITECTURE](/docs/SYSTEM_ARCHITECTURE.md)
 
