@@ -6,7 +6,7 @@
 
 this is the minimal ERD for the HSI Sandbox LMS, it's currently incomplete and is work in progress.
 
-```mermaidjs
+```mermaid
 ---
 tite: "HSI Sandbox LMS"
 ---
