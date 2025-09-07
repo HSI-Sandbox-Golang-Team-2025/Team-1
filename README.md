@@ -6,6 +6,7 @@ This is a LMS for the HSI Sandbox, there will be user for administrator, student
 
 1. [Documentation](#documentation)
 2. [Installation](#installation)
+3. [Team](#team)
 
 ## Documentation
 
