@@ -1,0 +1,6 @@
+# environment files
+.env*
+!.env.example
+
+# docker data
+docker_data
