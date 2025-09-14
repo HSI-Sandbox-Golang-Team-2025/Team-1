@@ -2,7 +2,7 @@
 
 ## Entity Relationship Diagram
 
-[CLICK TO VIEW IN MERMAID LIVE EDITOR](https://mermaid.live/edit#pako:eNrFV-FP4jAU_1eaJgZNhnEoOPeNA4yLCIYNc7mQkLpVbGTt0nV3Ivq_X7uN0d0Gp3cfCCNrX3_v9b1fX1-7NfRZgKENm83mjAoisA1m8MZ1gIto8MhewfDOncEZTcdnFPM-QQuOwhkFYOoOJi54f2822TrtzCfj4cAFNkBxTBY0VqBMVAci1F8mAY4rprxJt3erED7HSOCgYkZ15veDyZ3jus545NrgGaVmNJnEAgXeic1nyWGgd9O995QTBaCQbCDSA1e3UAF4Xfd2O7yJKRtzp9-qLij8XkTZRury3Bm53mTa88aT2ljGO3HqtzG5Vk0A_IQEQD73t1k_FpzQBaAoxCUBDhFZZhKBXwVAQcBxHJcwC0wDzGX6DEbTu-NGiJbYAE9YvRsnKodSbRLiWKAwegNJFKjVnSMhdUZjD4ymw6EB-oPr7nToAcp-Hdep5UnxCbWPLOAsdb4YsMxLn5NIEEYP5ri2W3TvkxjzuXxf32pCzpZYF2rzZpsxnbgUYiF_XGXyoyPgszBisSwDkiBwnM9kbKyfaM7pW-3_uNWWaf4Jq7XhpsII85DIoBjdwcR24fYszg4uSsZrGck34X4yfPZTcRqiRZkTWXqXWNtglfyrXfoDJGVR9PYtj-DIf9EdrUZJqACMy4JxsEjycr43EP8ZRaLM-SaUVYSLWted9p0xeAcPTn-g3t7gu7eteTuW2GdUYJrnG03CR1k8D8tIdh79Ix9_S-BUSqiEJ76Sxts8QELgMBLzJQlJuUa9EBpoztcEGSR4rtg5GGnasb1_T6D4pVKyKhtakZTwZZUbykrESG9FEhcJGHD0JBpGI04eJYXSf9mW17RANk7An-wps7HPeJWzVFpbH79QOnV7G3fyQb1SaveTfbTVnnab-rKPkm7Pcx4GDQM0nFHePswtBBpwwUkAbZn52IChPEiQ6sI07BkUz1gekFBdvAPEX5SW0okQ_cFYuFHjLFk8Q_sJLWPZy7zO7-KFFCWCuSvqFzrpjazHEiqgbbXNdmoV2mv4Cu1Wu3Xa6VgXpnl1dnVpnnUuDLiCtmm2T80z6_L8_MLqtC8s6_zDgG-pI-apabUt-W-3ri7PLKvTMiAOiGD8LvuISL8lPn4DwJrp6g)
+[CLICK TO VIEW IN MERMAID LIVE EDITOR](https://mermaid.live/edit#pako:eNrFV21v4jgQ_iuWpRWtFKpAWo7mG0fZXVTejoTV6oQUmcRQq4mddZy7dtv-97XzVkcB2t2VFoGUeDwezzyeeTx5gj4LMLRhu91eU0EEtsEafnbGwEE02LAHMJk6a7im2fyaYn5D0I6jaE0BWDmjpQOen9tt9pQNvOV8MnKADVCSkB1NlFIu2qdEqB-mAU4aptzlYHirNHyOkcBBw4waeIvRcjp2nPF85tjgDmVmNJnUBUr5oG6xS6EGhp8HC1c5USlUklJFeuDoFhoK7sC5fZ0uY8rnnNXfTReU_lGNuo3MZW88c9zlaujOl4diOahXM5cdxmI5_7SUcVUqRZCVrX1a6lcae1KvAPgpCYD8L27zcSI4oTtAUYRrAhwhEuYSgR8EQEHAcZLUdHaYBpjLPBzNVtOzVoRCbIAtVs_WuUrGbDWJcCJQFH8HaRyoNPGQkGtmcxfMVpOJAW5GHweriQso-_9s37Iiu96x7CUPOM_BnwxYJrjPSSwIoydzXCs73fs0wdyTz4-3mpCzEOtCbd-8qrONayFW8s1jLv_wAfgsilki-UQCBM6KnYzS-rnmnF6zv4etdkzeO6zuDTcTxphHRAbF6AEkXg_uyOEcwKJmfC8iRTUfB8Nn_ylMI7SrYyI5PMRagTXyb-_RnyApK_Y8djyCI_9ed7QZJaECMC4J42SRlJR5LBD_DsWijnkZymOMK64brG7Gc_AMvoxvRurpjr66r5x34Ih9RgWmRb7RNNpI8jwtIvnF9ot4vJXAmZRQqZ76Spq85gESAkex8EISkTpH3RMaVChvCUVhy2hF_jftQsEkKuJlMaaeQqqBRJDi_RN_ClmtSTheOCi5b_Bao-oVkluMg42sMk2U8rCJKWU1QGUAIk0qSAOOtkJCmqQbCb0MSb7LPjGQL-egDKwEQJlNfMabMGbSvbz6E5Sr2yvdKSZ1htUapGNI7r0lS146Bslg6I6_jFoGaI1nxfspu5daI_d2HxDKriy7ok7ksLw3ozQUJA6xJAtGfAy-pdJWQQPT4T-H8j9L4VI30RCQa7z5wn2zdiQtNKqEaQS0YfLORhSQxJPpyrEvTnaoKiSNEt7PCC_QgDtOAmhLGsUGjGRXgtQQZjbWUNxh2W1B9TkYIH6vdlVrYkT_ZSwql3GW7u6gvUVhIkd51MUXYiVFqWDOI_WrNVl7P2QpFdDuWJ1eLzML7Sf4AO32Zf_ywuxdd687pvlXz7zuG_BRirt966LTu7q0utdm58q0rBcDfs886VxYHavXN_uWedXtm2bXMiAOiGB8mn_bZp-4Lz8Acq69Uw)
 
 this is the minimal ERD for the HSI Sandbox LMS, it's currently incomplete and is work in progress.
 
@@ -23,7 +23,9 @@ erDiagram
   USERS || --o{ SUBMISSIONS: has
   TASKS || --o{ SUBMISSIONS: has
   USERS || --o{ TRACK_INSTRUCTOR: has
-  TRACKS || --O{ TRACK_INSTRUCTOR: has
+  TRACKS || --o{ TRACK_INSTRUCTOR: has
+  USERS || --o{USER_PROGRESS: has
+  LESSONS || --o{ USER_PROGRESS: has
 
 
   USERS {
@@ -104,7 +106,8 @@ erDiagram
     text description
     text instructions
     int attempt_limit
-    string kind "NOT NULL"
+    string kind "ENUM('final','mcq')"
+    teimstampz open_date
     timestampz due_date
     timestampz updated_at "NOT NULL, DEFAULT now()"
     timestampz created_at "NOT NULL, DEFAULT now()"
@@ -114,6 +117,7 @@ erDiagram
     cuid id PK
     cuid task_id FK
     cuid user_id FK
+    text feedback
     text url
     int attempt_no
     string status "ENUM('draft','submitted','graded') NOT NULL"
@@ -131,5 +135,32 @@ erDiagram
     string status "ENUM('ACTIVE', 'INACTIVE')"
     timestampz updated_at "NOT NULL, DEFAULT now()"
     timestampz created_at "NOT NULL, DEFAULT now()"
+  }
+
+  USER_PROGRESS {
+    cuid user_id FK
+    cuid lesson_id
+    timestampz updated_at "NOT NULL, DEFAULT now()"
+    timestampz created_at "NOT NULL, DEFAULT now()"
+  }
+
+%% multiple choice question
+  MCQ {
+    cuid id PK
+    text questions
+  }
+
+  MCQ_OPTIONS {
+    cuid id PK
+    cuid mcq_id FK
+    text option
+    boolean is_correct
+    timestampz updated_at "NOT NULL, DEFAULT now()"
+    timestampz created_at "NOT NULL, DEFAULT now()"
+  }
+
+  MCQ_SUBMISSIONS{
+    cuid id PK
+    cuid task_id FK
   }
 ```
