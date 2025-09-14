@@ -35,6 +35,8 @@ project/
 ├── cmd/
 │   └── app/
 │       └── main.go             # Main application logic
+├── cmd/
+│   └── docs/                   # project documentation like usecase, erd, system architecture
 ├── internal/
 │   ├── user/                   # Feature: User
 │   │   ├── handler/            # HTTP handlers (Fiber)
